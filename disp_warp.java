@@ -1,0 +1,83 @@
+import java.io.*;
+public class disp_warp
+{
+    void disp()throws Exception
+    {
+         System.out.println("  WW  WW       E E E   L L L L     C       O       M       M  E E E  !");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println(" W W  W W      E       L        C        O   O     M       M  E      !");
+         System.out.println("  WW  WW       E E E   L L L L     C       O       M       M  E E E  !");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println("W   W    W     E E E   L       C        O     O    M   M   M  E E E  !");
+         System.out.println(" W W  W W      E       L        C        O   O     M       M  E      !");
+         System.out.println("  WW  WW       E E E   L L L L     C       O       M       M  E E E  !");
+         Thread.sleep(500);
+         System.out.println("\u000c"); 
+         System.out.println("W        W     E       L        C        O   O     M M   M M  E      !");
+         System.out.println("W   W    W     E E E   L       C        O     O    M   M   M  E E E  !");
+         System.out.println(" W W  W W      E       L        C        O   O     M       M  E      !");
+         System.out.println("  WW  WW       E E E   L L L L     C       O       M       M  E E E  !");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println("W        W     E E E   L           C       O       M       M  E E E  !");   
+         System.out.println("W        W     E       L        C        O   O     M M   M M  E      !");
+         System.out.println("W   W    W     E E E   L       C        O     O    M   M   M  E E E  !");
+         System.out.println(" W W  W W      E       L        C        O   O     M       M  E      !");
+         System.out.println("  WW  WW       E E E   L L L L     C       O       M       M  E E E  !");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println("     T         O            WW   WW     A       A   R     R   P         S  S       ");                            
+         Thread.sleep(500);
+         System.out.println("\u000c");                        
+         System.out.println("     T       O   O         W  W W  W     A A A A    R   R     P             S      ");                               
+         System.out.println("     T         O            WW   WW     A       A   R     R   P         S  S       ");                            
+         Thread.sleep(500);
+         System.out.println("\u000c");              
+         System.out.println("     T      O     O       W    W    W     A   A     R R       P P         S       ");                         
+         System.out.println("     T       O   O         W  W W  W     A A A A    R   R     P             S      ");                               
+         System.out.println("     T         O            WW   WW     A       A   R     R   P         S  S       ");                            
+         Thread.sleep(500);
+         System.out.println("\u000c");                              
+         System.out.println("     T       O   O        W         W      A A      R   R     P   P     S        ");               
+         System.out.println("     T      O     O       W    W    W     A   A     R R       P P         S       ");                         
+         System.out.println("     T       O   O         W  W W  W     A A A A    R   R     P             S      ");                               
+         System.out.println("     T         O            WW   WW     A       A   R     R   P         S  S       ");                            
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println(" T T T T T     O          W         W       A       R R       P P        S  S    ");                               
+         System.out.println("     T       O   O        W         W      A A      R   R     P   P     S        ");               
+         System.out.println("     T      O     O       W    W    W     A   A     R R       P P         S       ");                         
+         System.out.println("     T       O   O         W  W W  W     A A A A    R   R     P             S      ");                               
+         System.out.println("     T         O            WW   WW     A       A   R     R   P         S  S       ");                            
+         Thread.sleep(500);
+         System.out.println("\u000c");                     
+         System.out.println(" A       A    N       N    D D           P         O       R     R      T     A       A   L L L L L  S  S         ");
+         Thread.sleep(500);
+         System.out.println("\u000c");                    
+         System.out.println("  A A A A     N     N N    D   D         P       O   O     R   R        T      A A A A    L               S      ");                      
+         System.out.println(" A       A    N       N    D D           P         O       R     R      T     A       A   L L L L L  S  S         ");
+         Thread.sleep(500);
+         System.out.println("\u000c");                     
+         System.out.println("   A   A      N   N   N    D    D        P P    O     O    R  R         T       A   A     L            S      ");                       
+         System.out.println("  A A A A     N     N N    D   D         P       O   O     R   R        T      A A A A    L              S      ");                      
+         System.out.println(" A       A    N       N    D D           P         O       R     R      T     A       A   L L L L L  S  S         ");
+         Thread.sleep(500);
+         System.out.println("\u000c");                                         
+         System.out.println("    A A       N N     N    D   D         P   P   O   O     R    R       T        A A      L           S     ");                       
+         System.out.println("   A   A      N   N   N    D    D        P P    O     O    R  R         T       A   A     L            S      ");                       
+         System.out.println("  A A A A     N     N N    D   D         P       O   O     R   R        T      A A A A    L               S      ");                      
+         System.out.println(" A       A    N       N    D D           P         O       R     R      T     A       A   L L L L L  S  S         ");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         System.out.println("     A        N       N    D D           P P       O       R  R     T T T T T     A       L           S  S ");                                           
+         System.out.println("    A A       N N     N    D   D         P   P   O   O     R    R       T        A A      L          S     ");                       
+         System.out.println("   A   A      N   N   N    D    D        P P    O     O    R  R         T       A   A     L           S      ");                       
+         System.out.println("  A A A A     N     N N    D   D         P       O   O     R   R        T      A A A A    L              S      ");                      
+         System.out.println(" A       A    N       N    D D           P         O       R     R      T     A       A   L L L L L  S  S         ");
+         Thread.sleep(500);
+         System.out.println("\u000c");
+         
+        }
+    }
