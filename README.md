@@ -1,2 +1,2 @@
 # Basic-games-made-in-java
-It is built using Bluej. Start from the main.java file.
+It is built using Bluej. Compile all the files first. Start from the main.java file.
